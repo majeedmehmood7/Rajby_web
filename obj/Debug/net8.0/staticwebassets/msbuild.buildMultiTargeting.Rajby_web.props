@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rajby_web.props" />
+</Project>
